@@ -1,18 +1,18 @@
 # Disaster_tweets_classification
-Project outline:
-Data Overview
-Importing Libraries
-Loading Data
-EDA
-Data Preprocessing
-Models Architecture and Training
-Models Evaluation
-Tuning parameters for LSTM and GRU and analyzing results
-Conclusion
-References
+## Project outline:
+- Data Overview
+- Importing Libraries
+- Loading Data
+- EDA
+- Data Preprocessing
+- Models Architecture and Training
+- Models Evaluation
+- Tuning parameters for LSTM and GRU and analyzing results
+- Conclusion
+- References
 
-Data Overview
-add Codeadd Markdown
+## Data Overview
+
 The Disaster Tweets Classification dataset is a widely used dataset in natural language processing (NLP) and machine learning for text classification tasks. This dataset is designed for the purpose of classifying tweets into two categories: those related to real disasters and those that are not. It's particularly useful for tasks such as sentiment analysis, disaster detection, and social media monitoring.
 
 Here are some key characteristics of the Disaster Tweets Classification dataset:
